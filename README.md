@@ -2,7 +2,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-I use C++20
+I mostly use C++20 or higher
 
 ### Technologies I use
 

@@ -1,4 +1,10 @@
-## Hi there 👋
+### Languages I am proficient in
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Technologies I use
+
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=red)
 
 <!--
 **aligator111/aligator111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

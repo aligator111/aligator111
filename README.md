@@ -1,7 +1,10 @@
+### Interests
+
+My interests span numerical analysis / modelling of various mathematical or physical structures. Besides that I also like low-level programming and find reverse engineering joyful.
+
 ### Languages I am proficient in
 
 ![C++](https://img.shields.io/badge/C++-20+-grey?labelColor=00599C&style=for-the-badge&logo=cplusplus&logoColor=white)
-
 
 ### Technologies I use
 
